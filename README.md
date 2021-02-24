@@ -1,1 +1,1 @@
-# kirlia-
+# kirlia discord bot
