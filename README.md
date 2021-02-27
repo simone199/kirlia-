@@ -1,1 +1,1 @@
-# kirlia discord bot
+# kirlia discord bot OMGGGGG FUNZIONA
